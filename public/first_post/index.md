@@ -1,13 +1,5 @@
-+++
-title = "您好，世界！"
+# 您好，世界！
 
-date =2024-11-08T11:13:29+08:00
-
-tags = ["Hello, World!", "Hugo", "LoveIt"]
-
-categories = ["博客搭建"]
-
-+++
 
 # Hello, World!
 
@@ -25,3 +17,4 @@ categories = ["博客搭建"]
 
 - [https://github.com/dillonzq/LoveIt](https://github.com/dillonzq/LoveIt)
 - [https://gohugo.io](https://gohugo.io)
+
