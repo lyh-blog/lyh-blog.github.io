@@ -1,0 +1,8 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - LiuYuhe&#39;s Blog</title>
+        <link>http://localhost:1313/posts/</link>
+        <description>All Posts | LiuYuhe&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>cnliuyuhe@gmail.com (LiuYuhe)</managingEditor>
+            <webMaster>cnliuyuhe@gmail.com (LiuYuhe)</webMaster><lastBuildDate>Fri, 08 Nov 2024 11:13:29 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /></channel>
+</rss>
