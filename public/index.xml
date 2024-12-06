@@ -4,9 +4,17 @@
         <link>http://localhost:1313/</link>
         <description>LiuYuhe&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>cnliuyuhe@gmail.com (LiuYuhe)</managingEditor>
-            <webMaster>cnliuyuhe@gmail.com (LiuYuhe)</webMaster><lastBuildDate>Fri, 08 Nov 2024 18:50:32 &#43;0800</lastBuildDate>
+            <webMaster>cnliuyuhe@gmail.com (LiuYuhe)</webMaster><lastBuildDate>Fri, 29 Nov 2024 15:52:03 &#43;0800</lastBuildDate>
             <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Follow 订阅源认证</title>
+    <link>http://localhost:1313/20241108212258/</link>
+    <pubDate>Fri, 08 Nov 2024 21:23:00 &#43;0800</pubDate>
+    <author>LiuYuhe</author>
+    <guid>http://localhost:1313/20241108212258/</guid>
+    <description><![CDATA[This message is used to verify that this feed (feedId:77701278964107264) belongs to me (userId:42022234361312256). Join me in enjoying the next generation information browser https://follow.is.]]></description>
+</item>
+<item>
     <title>Hugo 网站自动部署到 GitHub Pages</title>
     <link>http://localhost:1313/20241108185032/</link>
     <pubDate>Fri, 08 Nov 2024 18:50:32 &#43;0800</pubDate>
