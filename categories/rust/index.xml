@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Rust - Category - LiuYuhe&#39;s Blog</title>
+        <link>http://localhost:1313/categories/rust/</link>
+        <description>Rust - Category - LiuYuhe&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>cnliuyuhe@gmail.com (LiuYuhe)</managingEditor>
+            <webMaster>cnliuyuhe@gmail.com (LiuYuhe)</webMaster><lastBuildDate>Fri, 29 Nov 2024 15:52:03 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/categories/rust/" rel="self" type="application/rss+xml" /><item>
+    <title>Rust 基础入门</title>
+    <link>http://localhost:1313/20241129155201/</link>
+    <pubDate>Fri, 29 Nov 2024 15:52:03 &#43;0800</pubDate>
+    <author>LiuYuhe</author>
+    <guid>http://localhost:1313/20241129155201/</guid>
+    <description><![CDATA[Rust 基础入门 快速入门 Rust 变量绑定与解构 基本类型 所有权和借用 复合类型 流程控制 模式匹配 方法 Method 泛型和特征 集合类型 生命周期 返回值和错误处理 包和模块 注释和]]></description>
+</item>
+</channel>
+</rss>
