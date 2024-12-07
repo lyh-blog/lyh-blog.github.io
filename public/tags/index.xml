@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Tags - Tag - LiuYuhe&#39;s Blog</title>
+        <title>Tags - 标签 - LiuYuhe&#39;s Blog</title>
         <link>http://localhost:1313/tags/</link>
-        <description>Tags - Tag - LiuYuhe&#39;s Blog</description>
+        <description>Tags - 标签 - LiuYuhe&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>cnliuyuhe@gmail.com (LiuYuhe)</managingEditor>
             <webMaster>cnliuyuhe@gmail.com (LiuYuhe)</webMaster><lastBuildDate>Fri, 08 Nov 2024 21:23:00 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/" rel="self" type="application/rss+xml" /><item>
     <title>Follow</title>

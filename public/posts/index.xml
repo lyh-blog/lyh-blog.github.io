@@ -1,10 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>All Posts - LiuYuhe&#39;s Blog</title>
+        <title>所有文章 - LiuYuhe&#39;s Blog</title>
         <link>http://localhost:1313/posts/</link>
-        <description>All Posts | LiuYuhe&#39;s Blog</description>
+        <description>所有文章 | LiuYuhe&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>cnliuyuhe@gmail.com (LiuYuhe)</managingEditor>
-            <webMaster>cnliuyuhe@gmail.com (LiuYuhe)</webMaster><lastBuildDate>Fri, 29 Nov 2024 15:52:03 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>cnliuyuhe@gmail.com (LiuYuhe)</webMaster><lastBuildDate>Fri, 08 Nov 2024 21:23:00 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Follow 订阅源认证</title>
     <link>http://localhost:1313/20241108212258/</link>
     <pubDate>Fri, 08 Nov 2024 21:23:00 &#43;0800</pubDate>
