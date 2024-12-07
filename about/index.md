@@ -1,14 +1,14 @@
-# About
-
-
 # 关于我
+
+
+
 
 > 大家好，我是练习时长两年半的 Web 开发练习生，熟悉 Java、Python、Go、TypeScript 等常用编程语言。👆🤓
 
 
 ## 联系我
 - [GitHub](https://github.com/liuyuhe666)
-- [Send Email](mailto:cnliuyuhe@gmail.com)
+- [Email](mailto:cnliuyuhe@gmail.com)
 
 
 ![](https://raw.githubusercontent.com/liuyuhe666/images/main/PicGo/202412061425608.png)
