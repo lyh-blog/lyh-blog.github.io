@@ -395,11 +395,10 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       [params.page.comment.gitalk]
         # 
         enable = true
-        owner = "lyh-blog"
+        owner = "liuyuhe666"
         repo = "comments"
         clientId = "Ov23livIKizYKQ0GYs0f"
         clientSecret = "5be877c0158e9fbdfea8c759a285e830a6fd3596"
-        admin = ["liuyuhe666"]
       # Valine 评论系统设置
       [params.page.comment.valine]
         enable = false
