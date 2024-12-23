@@ -1,6 +1,6 @@
 # 个人博客
 
-~~https://lyh-blog.github.io~~（已废弃）
+~~`https://lyh-blog.github.io`~~（已废弃）
 
 新地址：[https://liuyuhe666.github.io](https://liuyuhe666.github.io)
 
